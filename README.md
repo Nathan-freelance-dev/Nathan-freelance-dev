@@ -21,7 +21,7 @@ I am a Front-end Developer from Nigeria.
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nathan-freelance-dev&theme=dark&background=000000)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathan-freelance-dev&show_icons=true&theme=radical)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-freelance-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
