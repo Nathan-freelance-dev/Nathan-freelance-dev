@@ -17,7 +17,7 @@ I am a Front-end Developer from Nigeria.
 
 - 👨‍🏭 I currently work with `javaScript`, `React.js`, `Bootstrap`, `Sass / scss`, `CSS` and `Html`
 
-- :mailbox:How to reach me on: nathanfreelancedev@gamil.com 
+- :mailbox:You can mail me through: nathanfreelancedev@gamil.com 
 
 <!---
 CODESNIPSS/CODESNIPSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
