@@ -1,4 +1,4 @@
-  <img src="https://github.com/Nathan-freelance-dev/portfolio/blob/main/src/assets/images/portolio_md.png" width="100%" height="500px"/>
+  <img src="https://github.com/Nathan-freelance-dev/portfolio/blob/main/src/assets/images/portolio_md.png" width="100%"/>
 
 <h1>
   Hey there, I am a freelancer
