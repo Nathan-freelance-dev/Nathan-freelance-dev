@@ -1,4 +1,4 @@
-  <img src="https://github.com/Nathan-freelance-dev/portfolio/blob/main/src/assets/images/portolio_md.png" width="100%"/>
+<!--   <img src="https://github.com/Nathan-freelance-dev/portfolio/blob/main/src/assets/images/my_portfolio.jpg" width="100%"/> -->
 
 <h1>
   Hey there, I am a freelancer
@@ -15,7 +15,7 @@ I am a Front-end Developer from Nigeria.
 
 - 👨‍🏭 I currently work with `javaScript`, `React.js`, `Bootstrap`, `Sass / scss`, `CSS` and `Html`
 
-- :mailbox:You can mail me through: nathanfreelancedev@gamil.com 
+- :mailbox:You can mail me here: nathanfreelancedev@gamil.com 
 
 <!---
 CODESNIPSS/CODESNIPSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
