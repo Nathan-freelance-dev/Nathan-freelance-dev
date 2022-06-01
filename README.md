@@ -2,7 +2,7 @@
 
 <h1>
   Hey there, I am a freelancer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
 </h1>
 
 ### :man_technologist: About Me :
